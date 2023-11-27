@@ -84,7 +84,7 @@ Rohit Raman (MT2022092) worked on developing test cases for Trees, Stacks, Slidi
 Github Link: https://github.com/rohitraman/Software-Testing-Project
 
 ## Results
-### We acheived 88% mutation coverage across all the functions
+###  We acheived 88% mutation coverage across all the functions
 
 ![image](https://github.com/rohitraman/Software-Testing-Project/assets/29233582/667cc750-a83a-470b-b176-9a3708e10e82)
 
