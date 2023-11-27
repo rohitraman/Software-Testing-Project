@@ -75,4 +75,37 @@ https://pitest.org/ - for more info.
 | StringMatch.java | 100% (13/13) | 93% (13/14) | 93% (13/14) |
 | TreeAlgo.java | 100% (100/100) | 100% (60/60) | 100% (60/60) |
 
+## Contributions
+Rahul Raj Ambastha (MT2022084) worked on developing test cases for Linked List, Queues, Greedy Algorithms such as Merge Interval, String Algorithms such as KMP and Repeated String Matching, Sorting Algorithms, Calculator, Recursion and a few Dynamic Programming and Array Algorithms.
 
+Rohit Raman (MT2022092) worked on developing test cases for Trees, Stacks, Sliding Window, Heaps, Binary Search, String Algorithms such as Anagram and Normal String Matching, Bit Manipulation Algorithms, few Array and  Dynamic Programming Algorithms.
+
+## Code Link
+Github Link: https://github.com/rohitraman/Software-Testing-Project
+
+## Results
+### We acheived 88% mutation coverage across all the functions
+
+![image](https://github.com/rohitraman/Software-Testing-Project/assets/29233582/667cc750-a83a-470b-b176-9a3708e10e82)
+
+![image](https://github.com/rohitraman/Software-Testing-Project/assets/29233582/083c62c3-14cc-4d64-a8ca-18ce4dea0f83)
+
+![image](https://github.com/rohitraman/Software-Testing-Project/assets/29233582/eb920685-6a54-4f51-9bdb-99e5b0376030)
+
+## References
+
+### Articles
+
+- [GeeksforGeeks - Mutation Testing](https://www.geeksforgeeks.org/software-testing-mutation-testing/)
+- [Wikipedia - Mutation Testing](https://en.wikipedia.org/wiki/Mutation_testing)
+
+### Videos
+
+- [YouTube: Introduction to Mutation Testing](https://www.youtube.com/watch?v=wZeZMtqVmck)
+- [YouTube: Testing Practice](https://www.youtube.com/watch?v=fiVma2syvoo)
+- [YouTube: Testing Practice](https://www.youtube.com/watch?v=kHlysr-yPYs)
+
+### Tools
+
+- [JUnit - Java Unit Testing Framework](https://mvnrepository.com/artifact/junit/junit)
+- [PITest - Mutation Testing Tool](https://pitest.org/)
