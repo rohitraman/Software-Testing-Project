@@ -90,6 +90,7 @@ Github Link: https://github.com/rohitraman/Software-Testing-Project
 
 ![image](https://github.com/rohitraman/Software-Testing-Project/assets/29233582/083c62c3-14cc-4d64-a8ca-18ce4dea0f83)
 
+These are statistics from Intellij Plugin called Statistic. It is a third party plugin that can be installed through Intellij
 ![image](https://github.com/rohitraman/Software-Testing-Project/assets/29233582/eb920685-6a54-4f51-9bdb-99e5b0376030)
 
 ## References
